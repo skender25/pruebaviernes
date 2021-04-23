@@ -1,1 +1,1 @@
-"Thisi is file B" 
+"Thisi is file B version 2 " 
